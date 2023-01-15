@@ -53,3 +53,4 @@ e.g. adding functions to calculate prime numbers or to print text in a specific 
 💡 How it works: star the repo ⭐ and your name will show up in the list below.
 
 **Students that liked the session 🥳**
+❤️ User [@jetzlstorfer](https://github.com/jetzlstorfer) liked the session and rated the repo with a star ⭐
