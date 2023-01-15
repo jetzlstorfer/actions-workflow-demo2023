@@ -48,7 +48,16 @@ e.g. adding functions to calculate prime numbers or to print text in a specific 
 
 -->
 
-## GitHub Actions demo
+<details>
+<summary><h2>GitHub Actions demo</h2></summary>
+
+The idea of the workflow with GitHub Actions is to automatically add a new entry to the list below when someone stars the repo.
+
+The workflow file can be found in `.github/workflows/ratings.yml`. 
+
+![permissions](./assets/actions-permissions.png)
+
+</details>
 
 💡 How it works: star the repo ⭐ and your name will show up in the list below.
 
