@@ -44,7 +44,7 @@ https://github.com/jetzlstorfer/plattentests-go
 
 in golang
 
-e.g. adding functions to calculate prime numbers or to print text in a sepcific color
+e.g. adding functions to calculate prime numbers or to print text in a specific color
 
 -->
 
