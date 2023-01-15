@@ -17,7 +17,7 @@ jobs:
         echo -e "\n❤️ User [@${{github.actor}}](https://github.com/${{github.actor}}) liked the session and rated the repo with a star ⭐" >> README.md 
     
     - name: Commit changes
-      uses: elstudio/actions-js-build/commit@v4
+      uses: elstudio/actions-js-build/commit@v3
       with:
         commitMessage: 'The repo received a new star rating from a user'
       env:
