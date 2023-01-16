@@ -70,3 +70,5 @@ The workflow file can be found in `.github/workflows/ratings.yml`.
 
 
 ❤️ User [@flomader](https://github.com/flomader) liked the session and rated the repo with a star ⭐
+
+❤️ User [@DistEntArch](https://github.com/DistEntArch) liked the session and rated the repo with a star ⭐
