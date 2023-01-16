@@ -1,5 +1,7 @@
 # GitHub Actions Worklofw Demo
 
+This repository contains some demos around [GitHub Actions](https://docs.github.com/en/actions), and references to other repos where I'm running [Codespaces](https://github.com/features/codespaces) and/or [Co-Pilot](https://github.com/features/copilot) that can also be used as great demo resources. Each section below holds more information on the concrete demo.
+
 <details>
 <summary><h2>Dependabot demo</h2></summary>
 
