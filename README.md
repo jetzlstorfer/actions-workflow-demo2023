@@ -68,3 +68,5 @@ The workflow file can be found in `.github/workflows/ratings.yml`.
 
 **People that liked the session 🥳**
 
+
+❤️ User [@flomader](https://github.com/flomader) liked the session and rated the repo with a star ⭐
