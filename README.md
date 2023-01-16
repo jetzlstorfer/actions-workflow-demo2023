@@ -1,4 +1,4 @@
-# actions-workflow-demo2022
+# GitHub Actions Worklofw Demo
 
 <details>
 <summary><h2>Dependabot demo</h2></summary>
@@ -59,7 +59,9 @@ The workflow file can be found in `.github/workflows/ratings.yml`.
 
 </details>
 
-💡 How it works: star the repo ⭐ and your name will show up in the list below.
+## 💡 How the GitHub Actions demo works 
+
+### Action: Star the repo ⭐ and your name will show up in the list below.
 
 **People that liked the session 🥳**
 
