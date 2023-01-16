@@ -1,30 +1,32 @@
 # actions-workflow-demo2022
 
+<details>
+<summary><h2>Dependabot demo</h2></summary>
 
-## Dependabot demo
+### How to activate
 
-<!--
 settings -> security and analysis -> enable version updates
 
-The action to add:
+### How to add dependabot
 
-# To get started with Dependabot version updates, you'll need to specify which
-# package ecosystems to update and where the package manifests are located.
-# Please see the documentation for all configuration options:
-# https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+To get started with Dependabot version updates, you'll need to specify which  package ecosystems to update and where the package manifests are located.  Please see the documentation for all configuration options:
+https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
+```
 version: 2
 updates:
   - package-ecosystem: "github actions" # See documentation for possible values
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
+```
 
--->
+</details>
 
-## Codespaces demo
+<details>
+<summary><h2>Codespaces demo</h2></summary>
 
-<!--
+
 we are going to use my personal demo repository 
 https://github.com/jetzlstorfer/plattentests-go
 
@@ -32,21 +34,19 @@ https://github.com/jetzlstorfer/plattentests-go
 2. make run 
 3. make run-function
 
+</details>
 
--->
+<details>
+<summary><h2>Co-pilot demo</h2></summary>
 
-
-
-## Co-pilot demo
-
-<!--
 https://github.com/jetzlstorfer/plattentests-go 
 
 in golang
 
 e.g. adding functions to calculate prime numbers or to print text in a specific color
 
--->
+</details>
+
 
 <details>
 <summary><h2>GitHub Actions demo</h2></summary>
