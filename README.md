@@ -84,3 +84,5 @@ The workflow file can be found in `.github/workflows/ratings.yml`.
 ❤️ User [@ArminPrieschl](https://github.com/ArminPrieschl) liked the session and rated the repo with a star ⭐
 
 ❤️ User [@gzukrigl](https://github.com/gzukrigl) liked the session and rated the repo with a star ⭐
+
+❤️ User [@aschnaller](https://github.com/aschnaller) liked the session and rated the repo with a star ⭐
